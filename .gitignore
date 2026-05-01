@@ -1,0 +1,10 @@
+# Local state — contains your API key, never commit this
+fireflies_state.json
+
+# Downloaded transcripts
+*.docx
+
+# macOS
+.DS_Store
+__pycache__/
+*.pyc
